@@ -51,7 +51,7 @@ body{
 }
 .container .card img{
     position: absolute;
-    left: 50%;
+    left: 62%;
     transform: translateX(-50%);
     bottom: 0;
     height: 400px;
@@ -64,10 +64,31 @@ body{
 .container .card .content{
     position: relative;
     width: 50%;
-    left: 0;
-    padding: 20px 20px 20px 40px;
+    left: 20%;
+    top: -113px;
+    padding: 20px 20px 20px 10px;
+    opacity: 0;
+    visibility: hidden;
     transition: .5s;
 }
+.container .card:hover .content{
+    left: 0;
+    opacity: 1;
+    visibility: visible;
+}
 .container .card .content h2{
-    
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 2.2em;
+    line-height: 1em;
+}
+.container .card .content a{
+    position: relative;
+    color: #111;
+    background-color: #fff;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    text-decoration: none;
+    font-weight: 700;
 }
