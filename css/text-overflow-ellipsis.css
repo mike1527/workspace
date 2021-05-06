@@ -1,0 +1,28 @@
+/* WITH FLEXBOX */
+.flex .wrapper {
+    display:flex;
+  }   
+  .flex .text--truncated {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  } 
+  /* WITH TABLE */
+  .table .wrapper {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+  }   
+  .table .text--truncated {
+    display: table-cell;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  } 
+  /* MULTI-LINE */
+  .multiline .text--truncated {
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;  
+  }
