@@ -11,10 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24514d5f-db90-469c-af16-600706cc806b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/3d-text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/3d-text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/burger.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/scroll.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/burger-js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/scroll.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/burger.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css.html" beforeDir="false" afterPath="$PROJECT_DIR$/css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.html" beforeDir="false" afterPath="$PROJECT_DIR$/js.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -46,6 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
   </component>
   <component name="SvnConfiguration">
@@ -63,6 +69,7 @@
       <workItem from="1620104452466" duration="6376000" />
       <workItem from="1620298792754" duration="6989000" />
       <workItem from="1620319594849" duration="2771000" />
+      <workItem from="1620400185190" duration="7243000" />
     </task>
     <servers />
   </component>
@@ -86,5 +93,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="611" y="431" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1620302126470" />
+    <state x="616" y="270" key="run.anything.popup" timestamp="1620822371936">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="616" y="270" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1620822371936" />
   </component>
 </project>
